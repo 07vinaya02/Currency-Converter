@@ -23,7 +23,7 @@ This is a dynamic **Currency Converter** application built using HTML, CSS, and 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+    https://07vinaya02.github.io/Currency-Converter/
    ```
 
 2. **Navigate to the Project Directory**:
